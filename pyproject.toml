@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "oop-practice"
+version = "0.1.0"
+description = "project for practice in OOP base."
+authors = ["Nadelyaev Dmitriy, kopstant"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.13.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
